@@ -1,4 +1,7 @@
-### Hi there 👋
+
+- 🕹️ Amateur Game Developer
+- 💻 Computer Programming student
+- 🌱 Open to innovation and eager to learn new things
 
 <!--
 **acimasizburger/acimasizburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
